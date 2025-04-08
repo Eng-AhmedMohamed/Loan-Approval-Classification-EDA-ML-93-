@@ -1,3 +1,6 @@
+***Please Run code in (colab or jupyter notebook or kaggle) to see all outputs of cells***
+
+ 
  Loan Approval Classification (EDA + ML) | 93%
 
 This project focuses on building a machine learning model to predict loan approval decisions using applicant financial and personal details. It includes data preprocessing, exploratory analysis, and the application of classification algorithms.
